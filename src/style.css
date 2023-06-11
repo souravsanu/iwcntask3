@@ -1,0 +1,25 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: lightpink;
+  border: 1px solid palevioletred;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.header-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.header-item {
+  margin-bottom: 5px;
+}
+
+.header-key {
+  font-weight: bold;
+}
